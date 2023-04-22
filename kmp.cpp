@@ -62,7 +62,7 @@ void kmp(char T[], char P[])
 
 int main()
 {
-	int d,q,i;
+	int i;
 	cout<<"The Knuth-Morris-Pratt algorithm \n";
 	cout<<"Pattern T ?";
 	cin>>T;
